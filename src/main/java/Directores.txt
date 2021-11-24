@@ -1,0 +1,11 @@
+Director{nombre='Steven Spielberg', nacionalidad='EUA', genero='Fantástico'}
+Director{nombre='Quentin Tarantino', nacionalidad='EUA', genero='Terror'}
+Director{nombre='Martin Scorsese', nacionalidad='EUA', genero='Drama'}
+Director{nombre='Christopher Nolan', nacionalidad='EUA', genero='Acción'}
+Director{nombre='David Fincher', nacionalidad='EUA', genero='Acción'}
+Director{nombre='James Cameron', nacionalidad='EUA', genero='Acción'}
+Director{nombre='Ridley Scott', nacionalidad='EUA', genero='Ciencia ficción'}
+Director{nombre='David Lynch', nacionalidad='EUA', genero='Drama'}
+Director{nombre='Guillermo del Toro', nacionalidad='EUA', genero='Acción'}
+Director{nombre='Alfonso Cuarón', nacionalidad='EUA', genero='Drama'}
+Director{nombre='Francis Ford Coppola', nacionalidad='EUA', genero='Drama'}

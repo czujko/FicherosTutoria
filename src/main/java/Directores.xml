@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cinemateca>
+    <directores>
+        <genero>Fantástico</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>Steven Spielberg</nombre>
+    </directores>
+    <directores>
+        <genero>Terror</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>Quentin Tarantino</nombre>
+    </directores>
+    <directores>
+        <genero>Drama</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>Martin Scorsese</nombre>
+    </directores>
+    <directores>
+        <genero>Acción</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>Christopher Nolan</nombre>
+    </directores>
+    <directores>
+        <genero>Acción</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>David Fincher</nombre>
+    </directores>
+    <directores>
+        <genero>Acción</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>James Cameron</nombre>
+    </directores>
+    <directores>
+        <genero>Ciencia ficción</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>Ridley Scott</nombre>
+    </directores>
+    <directores>
+        <genero>Drama</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>David Lynch</nombre>
+    </directores>
+    <directores>
+        <genero>Acción</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>Guillermo del Toro</nombre>
+    </directores>
+    <directores>
+        <genero>Drama</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>Alfonso Cuarón</nombre>
+    </directores>
+    <directores>
+        <genero>Drama</genero>
+        <nacionalidad>EUA</nacionalidad>
+        <nombre>Francis Ford Coppola</nombre>
+    </directores>
+</cinemateca>
